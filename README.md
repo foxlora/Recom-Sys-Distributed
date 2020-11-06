@@ -2,7 +2,7 @@
 
 ### 一、系统架构
 
-![image-20201106200925035](C:\Users\18351\PycharmProjects\Recom-Sys-Distributed\README.assets\image-20201106200925035.png)
+![image-20201106200925035](https://github.com/foxlora/Recom-Sys-Distributed/blob/master/README.assets/image-20201106200925035.png)
 
 
 
